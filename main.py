@@ -1,7 +1,6 @@
 import requests
 import json
-import os 
-import keyring
+import os
 from netmiko import ConnectHandler
 from csv import reader
 
